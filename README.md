@@ -1,4 +1,4 @@
-AI link: https://deutsch4kball.github.io/NexusAI/
+AI link: [https://deutsch4kball.github.io/NexusAI/](https://deutsch4kball.github.io/NexusAI/)
 
 
 Copyright © 2025 NexusAI. Всі права захищені.
